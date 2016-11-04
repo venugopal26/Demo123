@@ -1,0 +1,14 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,grpThreads,allThreads,Latency,IdleTime
+1469593578582,578,UserLogin,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,970,1,1,569,0
+1469593579162,558,BusinessList,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,3045,1,1,550,0
+1469593579722,936,UserLogin,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,970,2,2,934,0
+1469593580581,777,UserLogin,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,970,2,2,776,0
+1469593580660,698,BusinessList,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,3046,2,2,697,0
+1469593581361,1834,BusinessList,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,3045,2,2,1832,0
+1469593581362,1833,UserLogin,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,970,2,2,1831,0
+1469593583196,1466,BusinessList,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,3046,2,2,1464,0
+1469593583196,1466,UserLogin,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,970,2,2,1464,0
+1469593584664,1534,BusinessList,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,2531,2,2,1532,0
+1469593584664,1534,UserLogin,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,970,2,2,1532,0
+1469593586199,2000,BusinessList,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,1842,2,2,1998,0
+1469593586199,2000,UserLogin,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,970,2,2,1998,0
